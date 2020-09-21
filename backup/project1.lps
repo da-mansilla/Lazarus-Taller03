@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="umenu_principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMenu"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="289"/>
+        <CursorPos X="52" Y="297"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="umenu_principal.pas"/>
+        <Caret Line="549" Column="206" TopLine="528"/>
+      </Position1>
+      <Position2>
+        <Filename Value="umenu_principal.pas"/>
+        <Caret Line="522" Column="29" TopLine="512"/>
+      </Position2>
+      <Position3>
+        <Filename Value="umenu_principal.pas"/>
+        <Caret Line="529" Column="35" TopLine="522"/>
+      </Position3>
+      <Position4>
+        <Filename Value="umenu_principal.pas"/>
+        <Caret Line="317" Column="65" TopLine="301"/>
+      </Position4>
+      <Position5>
+        <Filename Value="umenu_principal.pas"/>
+        <Caret Line="300" Column="41" TopLine="289"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

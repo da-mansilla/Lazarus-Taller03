@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1594078105"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/agustin/lazarus-projects/taller03/lib/x86_64-linux &quot;-Fu/home/agustin/lazarus-projects/taller03/C:/Users/Agustin/Desktop/Nueva carpeta (4)&quot; -Fu/usr/share/lazarus/2.0.10/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.10/lcl/units/x86_64-linux -Fu/usr/share/lazarus/2.0.10/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.10/packager/units/x86_64-linux -Fu/home/agustin/lazarus-projects/taller03/ -FU/home/agustin/lazarus-projects/taller03/lib/x86_64-linux/ -FE/home/agustin/lazarus-projects/taller03/ -o/home/agustin/lazarus-projects/taller03/project1 -dLCL -dLCLgtk2 project1.lpr"/>
+</CONFIG>
